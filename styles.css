@@ -41,7 +41,8 @@ body {
   height: 260px;
   margin: 0 auto 1.55rem;
   border-radius: 50%;
-  object-fit: cover;
+  background: var(--background);
+  object-fit: contain;
 }
 
 h1,
