@@ -82,6 +82,16 @@ h1 {
   letter-spacing: -0.015em;
 }
 
+.content-section h3 {
+  margin: 0 0 0.65rem;
+  font-size: 1.05rem;
+  line-height: 1.4;
+}
+
+.teaching-group + .teaching-group {
+  margin-top: 1.3rem;
+}
+
 .entries {
   margin: 0;
   padding-left: 1.55rem;
